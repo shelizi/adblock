@@ -1,1 +1,2 @@
 ##div.pi-ck-nav-wrap
+##.adfixWp
