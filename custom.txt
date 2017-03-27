@@ -1,2 +1,11 @@
+[Adblock Plus 2.0]
+! Version: 201703241157
+! Title: custom
+! Last modified: 2017/03/28 12:17 +0800
+! Expires: 1 hours (update frequency)
+! License: https://easylist.to/pages/licence.html
+! Homepage: https://easylist.to/
+!
+!--------------------------General blocking filters---------------------------!
 ##div.pi-ck-nav-wrap
 ##.adfixWp
