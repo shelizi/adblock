@@ -7,5 +7,4 @@
 ! Homepage: https://easylist.to/
 !
 !--------------------------General blocking filters---------------------------!
-##div.pi-ck-nav-wrap
-##.adfixWp
+ck101.com##.pi-ck-nav-wrap
