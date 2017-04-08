@@ -9,3 +9,4 @@
 !--------------------------General blocking filters---------------------------!
 ck101.com##.pi-ck-nav-wrap
 ck101.com##.adfixWp
+technews.tw##.blockUI
