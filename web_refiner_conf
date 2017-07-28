@@ -1,0 +1,127 @@
+{
+  "version": "1.0",
+  "update": {},
+  "subscriptions": [
+ {
+      "name"            : "ublock",
+      "category"        : "ADS",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "ublock privacy",
+      "category"        : "TRACKERS",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "ublock unbreak",
+      "category"        : "Unbreak",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "Adblock Warning Removal List?",
+      "category"        : "ADS",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "Adguard Mobile",
+      "category"        : "ADS",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://adguard.com/en/filter-rules.html?id=11",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "Adware Filter",
+      "category"        : "ADS",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://easylist-downloads.adblockplus.org/adwarefilters.txt",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "Adguard Spyware",
+      "category"        : "TRACKERS",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://adguard.com/en/filter-rules.html?id=3",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "Easyprivacy",
+      "category"        : "TRACKERS",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://easylist-downloads.adblockplus.org/easyprivacy.txt",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "Malware Domains Filter",
+      "category"        : "MALWARE_DOMAINS",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://easylist-downloads.adblockplus.org/malwaredomains_full.txt",
+      "expiration"      : "1 days"
+    },
+    {
+      "name"            : "Adaway",
+      "category"        : "Hosts",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://adaway.org/hosts.txt",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : " hpHosts’ Ad and tracking servers",
+      "category"        : "Hosts",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://hosts-file.net/ad_servers.txt",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "Peter Lowe’s hosts file",
+      "category"        : "Hosts",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "easylist",
+      "category"        : "easylist",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://easylist.to/easylist/easylist.txt",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "easylistChina",
+      "category"        : "easylist china",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://easylist-downloads.adblockplus.org/easylistchina.txt",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "cjx",
+      "category"        : "cjx",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "cjxannoy",
+      "category"        : "cjxannoy",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt",
+      "expiration"      : "5 days"
+    },
+    {
+      "name"            : "custom",
+      "category"        : "custom",
+      "format"          : "WebRefiner 1.0",
+      "url"             : "https://raw.githubusercontent.com/shelizi/adblock/master/custom.txt",
+      "expiration"      : "1 hours"
+    }
+
+  ]
+}
+
