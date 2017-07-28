@@ -10,3 +10,5 @@
 ck101.com##.pi-ck-nav-wrap
 ck101.com##.adfixWp
 technews.tw##.blockUI
+www.towngag.com.hk###ad-popup-dialog
+www.towngag.com.hk###ad-popup-dialog-overlay
