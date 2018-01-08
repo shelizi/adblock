@@ -12,3 +12,4 @@ ck101.com##.adfixWp
 technews.tw##.blockUI
 www.towngag.com.hk###ad-popup-dialog
 www.towngag.com.hk###ad-popup-dialog-overlay
+www.dcard.tw##.post__ad-container
